@@ -18,7 +18,7 @@ Postanowiłam spróbować swoich sił jako testerka manualna. Moim celem jest po
 
 # Blogi
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/ads.txt)
+* [wyszkolewas.com.pl]([https://www.wyszkolewas.com.pl/ads.txt](https://www.wyszkolewas.com.pl/blog/))
 * [testerzy.pl](https://testerzy.pl/)
 * [testerka.pl](https://testerka.pl/)
 * [szkolatestera.pl](https://szkolatestera.pl/blog/)
