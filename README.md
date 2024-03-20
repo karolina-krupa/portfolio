@@ -6,10 +6,10 @@ Nazywam się Karolina Krupa. Ukończyłam studia magisterskie na kierunku zarzą
 Postanowiłam spróbować swoich sił jako testerka manualna. Moim celem jest poszerzanie wiedzy oraz rozwój umiejętności techcnicznych w obszarze testowania. 
 
 # Narzędzia
-*Jira
-*Trello
-*TestRail
-*SCRUM
+* Jira
+* Trello
+* TestRail
+* SCRUM
 
 # Kursy
 *
