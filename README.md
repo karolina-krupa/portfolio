@@ -17,11 +17,11 @@ Postanowiłam spróbować swoich sił jako testerka manualna. Moim celem jest po
 # Książki
 
 # Blogi
-* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl/)
-* [Zakotwiczony tekst](https://www.wyszkolewas.com.pl/ads.txt)
-* [Zakotwiczony tekst](https://testerzy.pl/)
-* [Zakotwiczony tekst](https://testerka.pl/)
-* [Zakotwiczony tekst](https://szkolatestera.pl/blog/)
+* [https://remigiuszbednarczyk.pl/]
+* [https://www.wyszkolewas.com.pl/ads.txt]
+* [https://testerzy.pl/]
+* [https://testerka.pl/]
+* [https://szkolatestera.pl/blog/]
 
 # Grupy
 * Tester oprogramowania - wsparcie na starcie
