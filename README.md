@@ -12,4 +12,24 @@ Postanowiłam spróbować swoich sił jako testerka manualna. Moim celem jest po
 * SCRUM
 
 # Kursy
-*
+* Maraton Quality Assurance - GoIT
+
+# Książki
+
+# Blogi
+* https://remigiuszbednarczyk.pl/
+* https://www.wyszkolewas.com.pl/ads.txt
+* https://testerzy.pl/
+* https://testerka.pl/
+* https://szkolatestera.pl/blog/
+
+# Grupy
+* Tester oprogramowania - wsparcie na starcie
+
+# Test Cases
+
+# Bug Reports
+
+# Test Reports
+
+# Test Scenarios
